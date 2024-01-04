@@ -1,8 +1,8 @@
 # About
 This macOS app lets you easily switch between light and dark mode.
 # Usage
-For the first launch, right-click the LightSwitch app and select 'open' and then 'open' again.
-Simply click on the app icon. LightSwitch shall close automatically.
+For the **first launch**, right-click the LightSwitch app and select 'open' and then 'open' again.
+Then, simply click on the app icon. LightSwitch shall close automatically.
 For the first time opening, you need to allow LightSwitch to access 'system events' under 'Automation' under the privacy section in Settings.
 # Contributors
 [@Prevo128](https://github.com/Plist256): Lead Developper;
