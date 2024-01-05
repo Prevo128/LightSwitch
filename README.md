@@ -1,4 +1,4 @@
-# About
+# LightSwitch
 This macOS app lets you easily switch between light and dark mode.
 # Usage
 For the **first launch**, right-click the LightSwitch app and select 'open' and then 'open' again.
